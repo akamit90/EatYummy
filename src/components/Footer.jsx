@@ -12,9 +12,9 @@ function Footer() {
 
         <div>
             <h2 className='font-bold mb-3 text-[20px] md:text-[25px]'>Company</h2>
-            <p className='text-[15px] md:text-[20px] mb-2 text-[gray]'>About</p>
-            <p className='text-[15px] md:text-[20px] mb-2 text-[gray]'>Career</p>
-            <p className='text-[15px] md:text-[20px] mb-2 text-[gray]'>Team</p>
+            <p className='text-[15px] md:text-[20px] mb-2 text-[gray]'>Home</p>
+            <p className='text-[15px] md:text-[20px] mb-2 text-[gray]'>About Us</p>
+            <p className='text-[15px] md:text-[20px] mb-2 text-[gray]'>Our Food</p>
             <p className='text-[15px] md:text-[20px] mb-2 text-[gray]'>Swiggy me</p>
         </div>
 

@@ -19,7 +19,7 @@ function App() {
       <BrowserRouter>
         <Header count={count}/>
         <Routes>
-          <Route path="/home" element={<Home handleAdd={handleAdd}/>}/>
+          <Route path="/" element={<Home handleAdd={handleAdd}/>}/>
           <Route path="/signin" element={<SignIn/>}/>
           <Route path="/aboutus" element={<AboutUs/>}/>
           <Route path="/ourfood" element={<OurFood handleAdd={handleAdd}/>}/>
